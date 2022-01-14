@@ -1,0 +1,6 @@
+[submodule "mainstage-api"]
+	path = mainstage-api
+	url = https://github.com/drewkeat/mainstage-api
+[submodule "mainstage-client"]
+	path = mainstage-client
+	url = https://github.com/drewkeat/mainstage-client
